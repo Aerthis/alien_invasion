@@ -1,0 +1,15 @@
+Description of gameplay:
+In Alien Invasion, the player controls a ship that apprears at the bottom centerr of the screen. The player can move the ship right and left using the arrow keys and shoot bullets using the spacebar. 
+
+When the game begins, a fleet of aliens fills the sky and moves across and down the screen. The player shoots and destroys the aliens. 
+
+If the player shoots all the aliens, a new fleet apprears that moves faster than the previous fleet. 
+
+If any alien hits the player's ship or reaches the bottom of the screen, the player loses a ship. 
+
+If the player loses three ships, the game ends.
+
+Installing Pygame:
+python -m pip install --upgrade pip
+pip install wheel
+C:\Users\80951\OneDrive - Underwriters Laboratories\Code\Aerthis\python_work\alien_invasion>pip install pygame-1.9.6-cp37-cp37m-win32.whl
